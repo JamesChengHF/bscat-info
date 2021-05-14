@@ -1,0 +1,16 @@
+chalice~=1.22.3
+dukpy~=0.2.3
+aiohttp~=3.7.4.post0
+
+web3~=5.19.0
+
+aiocache~=0.11.1
+
+ujson~=4.0.2
+
+SQLAlchemy~=1.4.14
+
+greenlet~=1.1.0
+
+redis
+aioredis
